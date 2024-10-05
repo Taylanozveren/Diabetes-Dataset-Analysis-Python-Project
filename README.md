@@ -1,5 +1,6 @@
 # Python Project: Diabetes-Dataset-Analysis
-In this project, I performed the following steps in two separate notebooks.
+In this project, I performed the following steps in two separate notebooks and bonus detailed notebooks
+
 
 Data Collection, Data Cleaning, Exploratory Data Analysis (EDA,) Feature Selection and Engineering, Data Splitting, Model Selection, Model Training, Model Evaluation, Hyperparameter Tuning, Model Testing and Validation, Model Deployment, Data Visualization
 
